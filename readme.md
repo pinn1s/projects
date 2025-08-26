@@ -19,7 +19,7 @@ btw install software? just like how you guys install software in windows unless 
 #### brr brr patapim
 tung tung tung sahur
 ### cool screenshots i made uwu
-(my github profile in case this profile is abandoned or just let it be a lost media or something or the author of the copypasta)[https://github.com/pinn1s/projects/blob/proofdeb/Screenshot%20from%202025-08-26%2020-10-32.png]
+!(my github profile in case this profile is abandoned or just let it be a lost media or something or the author of the copypasta[https://github.com/pinn1s/projects/blob/proofdeb/Screenshot%20from%202025-08-26%2020-10-32.png]
 ## end
 so, who now says i use windows like usual? i still use windows but 95% and 5% is debian and yea, this project is made 100% in my average debian computer
 btw im gonna go use windows aww shucks i forgot to learn grade 1 i just only telepoted to 12th grade aww shucks
